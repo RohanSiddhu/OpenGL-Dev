@@ -1,0 +1,30 @@
+build/
+out/
+
+# Visual Studio Code
+.cache/
+
+# Visual Studio
+.vs/
+CMakeSettings.json
+
+# Vim
+*~
+
+# CMake
+.cache
+.cmake
+CMakeFiles/
+Testing/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+
+# Ninja
+.ninja_deps
+.ninja_log
+build.ninja
+
+# ccls
+.ccls-cache/

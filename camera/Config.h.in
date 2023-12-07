@@ -1,0 +1,14 @@
+/**
+ * @file Config.h.in
+ * @author Rohan Siddhu
+ * @brief Set the configuration settings for the projects.
+ * @date 21/08/2022
+ */
+
+#define Camera_VERSION_MAJOR @Camera_VERSION_MAJOR@
+#define Camera_VERSION_MINOR @Camera_VERSION_MINOR@
+
+#define DEFAULT_WINDOW_WIDTH 800
+#define DEFAULT_WINDOW_HEIGHT 600
+
+#define FPS
